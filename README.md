@@ -1,3 +1,3 @@
 # KEITHLEY_project
-KEITHLEY_project is a project developed to help making research via KEITHLEY easier.
+KEITHLEY_project is a project developed to help making research via KEITHLEY easier.  
 Highly incomplete and developing. To be continued ...
