@@ -1,3 +1,3 @@
-# KEITHLEYKit
-KEITHLEYKit is a tool kit package designed for making KEITHLEY characterization easier.
+# KEITHLEY_project
+KEITHLEY_project is a project developed to help making research via KEITHLEY easier.
 Highly incomplete and developing. To be continued ...
